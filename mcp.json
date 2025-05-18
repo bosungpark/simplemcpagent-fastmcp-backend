@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+      "mcp-test": {
+        "command": "/Users/bosungpark/Desktop/simplemcpagent-python-backend/venv/bin/python3",
+        "args": [
+          "/Users/bosungpark/Desktop/simplemcpagent-python-backend/mcp_server.py"
+        ]
+      }
+    }
+  }
