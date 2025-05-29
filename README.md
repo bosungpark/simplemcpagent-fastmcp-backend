@@ -5,7 +5,7 @@
 > **AI 응답 플로우 (Tool 사용)**  
 > 사용자 → LLM(ChatGPT) → Tool 호출 (MCP 서버) → 결과 → LLM(ChatGPT) → 사용자
 
-이전에는 각 인터페이스별로 도구를 개별 개발했기 때문에 중복이 많았지만, MCP(Machine-Control Protocol)가 등장하면서 표준화된 도구를 재사용하는 것이 가능해짐
+이전에는 각 인터페이스별로 도구를 개별 개발했기 때문에 중복이 많았지만, MCP(Model Context Protocol)가 등장하면서 표준화된 도구를 재사용하는 것이 가능해짐
 
 ---
 
